@@ -12,7 +12,7 @@ A GitHub Action for building and deploying a Jekyll repo back to its `gh-pages` 
   
 ## Environment Variables
 * `GITHUB_ACTOR`: Username of repo owner or object intiating the action (GitHub Provides)
-* `GITHUB_REPO`: Owner/Repository (GitHub Provides)
+* `GITHUB_REPOSITORY`: Owner/Repository (GitHub Provides)
 
 ## Example
 
